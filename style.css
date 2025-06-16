@@ -211,4 +211,28 @@ footer {
   .hero h1 {
     font-size: 2rem;
   }
+}
+
+.references {
+  padding: 1.5rem 1rem;
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
+.reference-logos {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+.reference-logos img {
+  height: 48px;
+  max-width: 120px;
+  object-fit: contain;
+  background: #fff;
+  border-radius: 8px;
+  padding: 0.5rem 1rem;
+  box-shadow: 0 2px 8px #0001;
 } 
