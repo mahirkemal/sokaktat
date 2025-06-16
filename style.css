@@ -147,6 +147,12 @@ footer {
   margin-top: 2rem;
 }
 
+.emoji {
+  font-size: 2.2rem;
+  margin-bottom: 0.3rem;
+  display: block;
+}
+
 @media (max-width: 600px) {
   .gallery-grid {
     grid-template-columns: 1fr;
